@@ -176,7 +176,7 @@ class WZMLStyle:
     STATUS_NAME =       '<b><i>{Name}</i></b>'
 
     #####---------PROGRESSIVE STATUS-------
-     BAR =              '\n┠ {Bar}'
+    BAR =               '\n┠ {Bar}'
     PROCESSED =         '\n┠ <b>🧿Pʀᴏᴄᴇssᴇᴅ:</b> {Processed}'
     STATUS =            '\n┠ <b>✨Sᴛᴀᴛᴜs:</b> <a href="{Url}">{Status}</a>'
     ETA =               '\n┠ <b>📶Eᴛᴀ:</b> {Eta}'
@@ -205,7 +205,7 @@ class WZMLStyle:
     CANCEL =         '\n┖ <b>🚫Sᴛᴏᴘ{Cancel}\n\n'
 
     ####------FOOTER--------
-     FOOTER = '⌬ <b><i>Bᴏᴛ Sᴛᴀᴛs</i></b>\n'
+    FOOTER = '⌬ <b><i>Bᴏᴛ Sᴛᴀᴛs</i></b>\n'
     TASKS =  '┠ <b>🚧Tᴀsᴋs:</b> {Tasks}\n'
     BOT_TASKS = '┠ <b>Tᴀsᴋs:</b> {Tasks}/{Ttask} | <b>👷Aᴠʟ:</b> {Free}\n'
     Cpu = '┠ <b>🖥️Cᴘᴜ:</b> {cpu}% | '
