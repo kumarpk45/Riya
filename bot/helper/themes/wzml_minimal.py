@@ -122,7 +122,7 @@ class WZMLStyle:
     # ---------------------
 
     # async def onDownloadStart(self): --> tasks_listener.py
-     LINKS_START = """<b><i>Tᴀsᴋ Sᴛᴀʀᴛᴇᴅ</i></b>
+    LINKS_START = """<b><i>Tᴀsᴋ Sᴛᴀʀᴛᴇᴅ</i></b>
 ┠ <b>Mᴏᴅᴇ:</b> {Mode}
 ┖ <b>Bʏ:</b> {Tag}\n\n"""
     LINKS_SOURCE = """➲Sᴏᴜʀᴄᴇ <b>:</b>
